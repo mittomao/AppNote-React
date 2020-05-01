@@ -1,0 +1,18 @@
+{
+  "tboto" : {
+    "oto1" : {
+      "gia" : 1900000,
+      "hinhanh" : "1.png",
+      "id" : 1,
+      "masp" : "s1",
+      "tensp" : "Audi"
+    },
+    "oto2" : {
+      "gia" : 20000000,
+      "hinhanh" : "2.png",
+      "id" : 2,
+      "masp" : "s2",
+      "tensp" : "BMW"
+    }
+  }
+}
